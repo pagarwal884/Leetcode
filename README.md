@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pagarwal884/Leetcode/tree/master/0053-maximum-subarray) |
+| [1207-unique-number-of-occurrences](https://github.com/pagarwal884/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pagarwal884/Leetcode/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/pagarwal884/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
