@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pagarwal884/Leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/pagarwal884/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pagarwal884/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0724-find-pivot-index](https://github.com/pagarwal884/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pagarwal884/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/pagarwal884/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pagarwal884/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/pagarwal884/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
