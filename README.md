@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pagarwal884/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pagarwal884/Leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/pagarwal884/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/pagarwal884/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pagarwal884/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/pagarwal884/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pagarwal884/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pagarwal884/Leetcode/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/pagarwal884/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pagarwal884/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/pagarwal884/Leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/pagarwal884/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/pagarwal884/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pagarwal884/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Quicksort
 |  |
@@ -86,9 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pagarwal884/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/pagarwal884/Leetcode/tree/master/0724-find-pivot-index) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pagarwal884/Leetcode/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/pagarwal884/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
